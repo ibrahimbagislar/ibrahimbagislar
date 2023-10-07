@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **.NetCore 6,C# and SQL**
 
-- 📫 How to reach me **ibrahimbagislar.com#iletisim**
+- 📫 How to reach me **ibrahimbagislar19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
