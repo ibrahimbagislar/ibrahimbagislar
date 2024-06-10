@@ -12,7 +12,7 @@
 
 - 🔍 **Future Goals**: I’m interested in **Microservices Architecture** and **Cloud Computing**.
 
-- 🎨 **Hobbies**: When I'm not busy coding, you can usually find me... well, coding some more! 😄 My idea of fun is diving into new tech stacks and debugging code like a detective on a mission.
+- 💻 **Hobbies**: When I'm not busy writing code, you can usually find me... writing some more code! 😄 My idea of fun is diving into new tech stacks and debugging code like a detective on a mission.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
