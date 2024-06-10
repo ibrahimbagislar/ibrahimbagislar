@@ -4,11 +4,15 @@
 
 - 🔭 I’m currently working on **ASP.NetCore**
 
-- 🌱 I’m currently learning **Onion Architecture**
+- 🌱 I’m currently learning **Design Patterns**
 
-- 💬 Ask me about **.NetCore 6,C# and SQL**
+- 💬 Ask me about **.NetCore, C#, SQL, RabbitMQ, Redis, Docker**
 
 - 📫 How to reach me **ibrahimbagislar19@gmail.com**
+
+- 🔍 **Future Goals**: I’m interested in **Microservices Architecture** and **Cloud Computing**.
+
+- 🎨 **Hobbies**: When I'm not busy coding, you can usually find me... well, coding some more! 😄 My idea of fun is diving into new tech stacks and debugging code like a detective on a mission.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
