@@ -1,20 +1,22 @@
-<h1 align="center">İbrahim Bağışlar</h1>
+<div align="center">
 
-<p align="center">
-  Bilgisayar Mühendisliği öğrencisi · Full-Stack Developer · .NET Backend · Yapay Zeka Destekli Uygulamalar
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:111827,55:512BD4,100:0A66C2&text=%C4%B0brahim%20Ba%C4%9F%C4%B1%C5%9Flar&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20.NET%20Backend%20%C2%B7%20AI%20Applications&descAlignY=61&descSize=17" alt="İbrahim Bağışlar" />
 
-<p align="center">
-  <a href="mailto:ibrahimbagislar19@gmail.com">
-    <img src="https://img.shields.io/badge/Eposta-ibrahimbagislar19%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="E-posta" />
-  </a>
-  <a href="https://linkedin.com/in/ibrahimbagislar">
-    <img src="https://img.shields.io/badge/LinkedIn-ibrahimbagislar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ibrahimbagislar">
-    <img src="https://img.shields.io/badge/GitHub-ibrahimbagislar-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<br />
+
+<a href="mailto:ibrahimbagislar19@gmail.com">
+  <img src="https://img.shields.io/badge/E--posta-ibrahimbagislar19%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" />
+</a>
+<a href="https://linkedin.com/in/ibrahimbagislar">
+  <img src="https://img.shields.io/badge/LinkedIn-ibrahimbagislar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br />
+<br />
+
+<strong>Bilgisayar Mühendisliği öğrencisi</strong> olarak .NET backend, full-stack web, mobil uygulama entegrasyonları ve yapay zeka destekli projeler geliştiriyorum.
+
+</div>
 
 ---
 
@@ -59,12 +61,6 @@ Yemek tarifleri ve mutfak alanı üzerine geliştirilmiş LLM/RAG odaklı yapay 
 Çöp kutusu, çöp konteynırı ve cam geri dönüşüm kumbarasını görüntüden ayırt eden modelin mobil uygulamayla birleştirildiği proje. Model eğitimi, FastAPI tahmin servisi, React Native mobil arayüz ve harita tabanlı atık noktası raporlama akışı birlikte çalışıyor.
 
 [Repository](https://github.com/ibrahimbagislar/cer-cop-mobile-ml)
-
-### Bebek Takip API
-
-Mobil bebek takip uygulaması için geliştirilmiş .NET 8 backend projesi. Kimlik doğrulama, JWT/refresh token, API key, bebek profilleri, beslenme kayıtları, uyku kayıtları, gelişim notları, hatırlatmalar, EF Core migrationları ve katmanlı mimari içeriyor.
-
-[Repository](https://github.com/ibrahimbagislar/bebek-takip-api)
 
 ---
 
