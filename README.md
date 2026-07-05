@@ -14,7 +14,7 @@
 <br />
 <br />
 
-<strong>Bilgisayar Mühendisliği öğrencisi</strong> olarak .NET backend, full-stack web, mobil uygulama entegrasyonları ve yapay zeka destekli projeler geliştiriyorum.
+<strong>Bilgisayar Mühendisi </strong> olarak .NET backend, full-stack web, mobil uygulama entegrasyonları ve yapay zeka destekli projeler geliştiriyorum.
 
 </div>
 
