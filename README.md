@@ -22,7 +22,7 @@
 
 ## Hakkımda
 
-Merhaba, ben İbrahim. İskenderun Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Son dönemde ağırlıklı olarak .NET tabanlı backend sistemleri, yönetilebilir web projeleri, mobil uygulama backendleri ve yapay zeka destekli ürünler üzerine çalışıyorum.
+Merhaba, ben İbrahim. İskenderun Teknik Üniversitesi Bilgisayar Mühendisliği bölümü mezunuyum. Son dönemde ağırlıklı olarak .NET tabanlı backend sistemleri, yönetilebilir web projeleri, mobil uygulama backendleri ve yapay zeka destekli ürünler üzerine çalışıyorum.
 
 Projelerde yalnızca kod yazma tarafında kalmamaya çalışıyorum. Veritabanı tasarımı, API mimarisi, admin paneli, frontend deneyimi, sunucu kurulumu, deployment ve performans iyileştirme gibi uçtan uca parçalarla ilgileniyorum. Bir fikrin sadece çalışmasını değil, gerçekten kullanılabilir hale gelmesini önemsiyorum.
 
